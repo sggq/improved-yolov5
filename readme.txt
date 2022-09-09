@@ -1,0 +1,1 @@
+This study mainly modifies the yolo.py,common.py and yolov5s.yaml under the modesl folder in the original yolov5
